@@ -1,3 +1,3 @@
 # portfolio
 
-A static page for my domain with contact information. Nothing to see here.
+A static page with brief introduction and contact information. Nothing to see here.
